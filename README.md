@@ -6,18 +6,19 @@
 
 This course will covered widely used parallel and distributed computing methods, focusing on datacenter-scale distributed software and methods such as MapReduce, Spark, and distributed graph algorithms. We'll study the types of algorithms which work well with these techniques, and have the opportunity to implement some of these algorithms. We'll also look at the types of hardware architectures which have been developed along with these computing methods.
 
+# Completed Coursework
 ## Labs
 
 Lab 1 - Interactive RDDs<br/>
 Lab 2 - Spark MapReduce<br/>
-Lab 3 - Hadoop and running on the Cluster . 
-Lab 4 - Joins . 
-Lab 5 - SparkSQL . 
-Lab 6 - Spark Streaming . 
-Lab 7 - SparkGraphFrames . 
+Lab 3 - Hadoop and running on the Cluster<br/>
+Lab 4 - Joins<br/>
+Lab 5 - SparkSQL<br/> 
+Lab 6 - Spark Streaming<br/>
+Lab 7 - SparkGraphFrames<br/>
 
 ## Programs
 
-Program 1 . 
-Program 2 - Analyzing and Joining Multiple Sources . 
-Program 3 - Pregel GraphFrames . 
+Program 1<br/> 
+Program 2 - Analyzing and Joining Multiple Sources<br/> 
+Program 3 - Pregel GraphFrames<br/>

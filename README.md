@@ -8,16 +8,16 @@ This course will covered widely used parallel and distributed computing methods,
 
 ## Labs
 
-Lab 1 - Interactive RDDs \n
-Lab 2 - Spark MapReduce \n
-Lab 3 - Hadoop and running on the Cluster \n
-Lab 4 - Joins \n
-Lab 5 - SparkSQL \n
-Lab 6 - Spark Streaming \n
-Lab 7 - SparkGraphFrames \n
+Lab 1 - Interactive RDDs . 
+Lab 2 - Spark MapReduce . 
+Lab 3 - Hadoop and running on the Cluster . 
+Lab 4 - Joins . 
+Lab 5 - SparkSQL . 
+Lab 6 - Spark Streaming . 
+Lab 7 - SparkGraphFrames . 
 
 ## Programs
 
-Program 1 
-Program 2 - Analyzing and Joining Multiple Sources
-Program 3 - Pregel GraphFrames
+Program 1 . 
+Program 2 - Analyzing and Joining Multiple Sources . 
+Program 3 - Pregel GraphFrames . 

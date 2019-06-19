@@ -4,7 +4,7 @@
 
 ### Course Description
 
-This course covered widely used parallel and distributed computing methods, focusing on datacenter-scale distributed software and methods such as MapReduce, Spark, and distributed graph algorithms. The course prerequisite was Algorithms for Data Science. Coding assignments for the course included 7 labs and 3 programs.
+This course covered widely used parallel and distributed computing methods, focusing on datacenter-scale distributed software and methods such as MapReduce, Spark, and distributed graph algorithms. The course prerequisite was Algorithms for Data Science. Coding assignments for the course included 7 labs and 3 programs. All coding assignments were completed individually.
 
 ## Completed Coursework
 ### Labs

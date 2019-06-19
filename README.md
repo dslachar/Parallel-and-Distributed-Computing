@@ -8,8 +8,8 @@ This course will covered widely used parallel and distributed computing methods,
 
 ## Labs
 
-Lab 1 - Interactive RDDs\ 
-Lab 2 - Spark MapReduce . 
+Lab 1 - Interactive RDDs<br/>
+Lab 2 - Spark MapReduce<br/>
 Lab 3 - Hadoop and running on the Cluster . 
 Lab 4 - Joins . 
 Lab 5 - SparkSQL . 
